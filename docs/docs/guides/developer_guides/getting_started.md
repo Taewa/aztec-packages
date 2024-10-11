@@ -143,7 +143,7 @@ aztec-wallet send mint_public --from accounts:my-wallet --contract-address testt
 
 This takes
 
-- the function name as the argument, whcih is `mint_public`
+- the function name as the argument, which is `mint_public`
 - the `from` account (caller) which is `accounts:my-wallet`
 - the contract address, which is alised as `contracts:testtoken`
 - the args that the function takes, which is the account to mint the tokens into (`my-wallet`), and `amount` (`100`).
